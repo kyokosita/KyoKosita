@@ -24,6 +24,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![dotenv](https://img.shields.io/badge/-dotenv-8BBD23?style=flat&logo=dotenv&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
@@ -34,16 +38,13 @@
 
 ---
 
-## 🐍 Snake Eat Contribution Graph
-
-![snake gif](https://github.com/kyokosita/kyokosita/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔗 Connect with me
 
-[![Discord](https://img.shields.io/badge/-kyokosita%230001-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/802124848037888000)
+[![Discord](https://img.shields.io/badge/-kyokosita-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/802124848037888000)
 [![GitHub](https://img.shields.io/badge/-kyokosita-black?style=flat&logo=github&logoColor=white)](https://github.com/kyokosita)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kyokosita00@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kyo.kosita)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kyokosita00)
 
 ---
 
